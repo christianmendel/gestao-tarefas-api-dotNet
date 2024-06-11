@@ -103,3 +103,4 @@ C:\Users\Christian\Documents\Projects\escola\GestaoTarefas\GestaoTarefas\obj\Deb
 C:\Users\Christian\Documents\Projects\escola\GestaoTarefas\GestaoTarefas\obj\Debug\net8.0\GestaoTarefas.genruntimeconfig.cache
 C:\Users\Christian\Documents\Projects\escola\GestaoTarefas\GestaoTarefas\obj\Debug\net8.0\ref\GestaoTarefas.dll
 C:\Users\Christian\Documents\Projects\escola\GestaoTarefas\GestaoTarefas\bin\Debug\net8.0\Dapper.dll
+C:\Users\Christian\Documents\Projects\escola\GestaoTarefas\GestaoTarefas\obj\Debug\net8.0\GestaoTarefas.sourcelink.json

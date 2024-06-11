@@ -1,6 +1,7 @@
 ﻿using GestaoTarefas.Data;
 using GestaoTarefas.Dto.Request;
 using GestaoTarefas.Entity;
+using GestaoTarefas.Enums;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -41,7 +42,7 @@ namespace GestaoTarefas.Controllers
         [HttpPost]
         public async Task<IActionResult> CriarTarefa([FromBody] TarefaRequest tarefaRequest)
         {
-            var tarefa = new Tarefa(tarefaRequest.Titulo, tarefaRequest.Descricao);
+            var tarefa = new Tarefa(tarefaRequest.Titulo, tarefaRequest.Descricao, Enum.Parse<Prioridade>(tarefaRequest.Prioridade.ToString()));
 
             var usuario = await _configDbContext.Usuarios.FirstOrDefaultAsync(usuario => usuario.Id == tarefaRequest.UsuarioId);
 
@@ -51,6 +52,15 @@ namespace GestaoTarefas.Controllers
             }
 
             tarefa.AtribuirUsuarioId(tarefaRequest.UsuarioId);
+
+            var categoria = await _configDbContext.Categorias.FirstOrDefaultAsync(categoria => categoria.Id == tarefaRequest.CategoriaId);
+
+            if (categoria == null)
+            {
+                return NotFound("Categoria não encontrada");
+            }
+
+            tarefa.AtribuirCategoriaId(tarefaRequest.CategoriaId);
 
             _configDbContext.Tarefas.Add(tarefa);
             _configDbContext.SaveChanges();

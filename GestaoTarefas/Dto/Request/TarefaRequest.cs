@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using GestaoTarefas.Enums;
+using System.ComponentModel.DataAnnotations;
 
 namespace GestaoTarefas.Dto.Request
 {
@@ -9,6 +10,10 @@ namespace GestaoTarefas.Dto.Request
         [Required]
         public string Descricao { get; set; }
         [Required]
+        public int Prioridade { get; set; }
+        [Required]
         public int UsuarioId { get; set; }
+        [Required]
+        public int CategoriaId { get; set; }
     }
 }

@@ -3,6 +3,7 @@ using System;
 using GestaoTarefas.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace GestaoTarefas.Migrations
 {
     [DbContext(typeof(ConfigDbContext))]
-    partial class ConfigDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240611162636_Init")]
+    partial class Init
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -72,9 +75,6 @@ namespace GestaoTarefas.Migrations
 
                     b.Property<bool>("Finalizada")
                         .HasColumnType("boolean");
-
-                    b.Property<int>("Prioridade")
-                        .HasColumnType("integer");
 
                     b.Property<string>("Titulo")
                         .IsRequired()
