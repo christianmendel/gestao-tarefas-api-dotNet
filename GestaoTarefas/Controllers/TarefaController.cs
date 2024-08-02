@@ -1,5 +1,5 @@
 ﻿using GestaoTarefas.Data;
-using GestaoTarefas.Dto.Request;
+using GestaoTarefas.Dto.Request.Tarefa;
 using GestaoTarefas.Entity;
 using GestaoTarefas.Enums;
 using Microsoft.AspNetCore.Mvc;

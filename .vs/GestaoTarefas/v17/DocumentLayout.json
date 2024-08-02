@@ -1,65 +1,63 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\",
+  "WorkspaceRootPath": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\dto\\request\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\dto\\request\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\dto\\request\\tarefa\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\dto\\request\\tarefa\\tarefarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\dto\\request\\categoriarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\dto\\request\\categoriarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\dto\\request\\categoria\\categoriarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\dto\\request\\categoria\\categoriarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\enums\\prioridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\enums\\prioridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\enums\\prioridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\dto\\request\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\dto\\request\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\dto\\request\\usuario\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\dto\\request\\usuario\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\entity\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\entity\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\entity\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\entity\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\entity\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\entity\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611162048_atualizarEntidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoTarefas\\Migrations\\20240611162048_atualizarEntidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611162048_atualizarEntidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611161802_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestaoTarefas\\Migrations\\20240611161802_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611161802_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\data\\configdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\data\\configdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\data\\configdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\christian\\documents\\projects\\escola\\gestaotarefas\\gestaotarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|c:\\users\\chris\\source\\repos\\gestao-tarefas-api-dotnet\\gestaotarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3BEE72-E36A-4A0E-8B06-27F3764DD108}|GestaoTarefas\\GestaoTarefas.csproj|solutionrelative:gestaotarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -79,10 +77,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TarefaRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Dto\\Request\\TarefaRequest.cs",
-              "RelativeDocumentMoniker": "GestaoTarefas\\Dto\\Request\\TarefaRequest.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Dto\\Request\\TarefaRequest.cs",
-              "RelativeToolTip": "GestaoTarefas\\Dto\\Request\\TarefaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Dto\\Request\\Tarefa\\TarefaRequest.cs",
+              "RelativeDocumentMoniker": "GestaoTarefas\\Dto\\Request\\Tarefa\\TarefaRequest.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Dto\\Request\\Tarefa\\TarefaRequest.cs",
+              "RelativeToolTip": "GestaoTarefas\\Dto\\Request\\Tarefa\\TarefaRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T17:53:38.895Z",
@@ -92,10 +90,10 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CategoriaRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Dto\\Request\\CategoriaRequest.cs",
-              "RelativeDocumentMoniker": "GestaoTarefas\\Dto\\Request\\CategoriaRequest.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Dto\\Request\\CategoriaRequest.cs",
-              "RelativeToolTip": "GestaoTarefas\\Dto\\Request\\CategoriaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Dto\\Request\\Categoria\\CategoriaRequest.cs",
+              "RelativeDocumentMoniker": "GestaoTarefas\\Dto\\Request\\Categoria\\CategoriaRequest.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Dto\\Request\\Categoria\\CategoriaRequest.cs",
+              "RelativeToolTip": "GestaoTarefas\\Dto\\Request\\Categoria\\CategoriaRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T14:38:09.963Z",
@@ -105,10 +103,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UsuarioRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Dto\\Request\\UsuarioRequest.cs",
-              "RelativeDocumentMoniker": "GestaoTarefas\\Dto\\Request\\UsuarioRequest.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Dto\\Request\\UsuarioRequest.cs",
-              "RelativeToolTip": "GestaoTarefas\\Dto\\Request\\UsuarioRequest.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Dto\\Request\\Usuario\\UsuarioRequest.cs",
+              "RelativeDocumentMoniker": "GestaoTarefas\\Dto\\Request\\Usuario\\UsuarioRequest.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Dto\\Request\\Usuario\\UsuarioRequest.cs",
+              "RelativeToolTip": "GestaoTarefas\\Dto\\Request\\Usuario\\UsuarioRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T19:24:29.202Z",
@@ -118,9 +116,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TarefaController.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Controllers\\TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Controllers\\TarefaController.cs",
               "RelativeDocumentMoniker": "GestaoTarefas\\Controllers\\TarefaController.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Controllers\\TarefaController.cs",
               "RelativeToolTip": "GestaoTarefas\\Controllers\\TarefaController.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAowCoAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,21 +130,20 @@
               "DocumentIndex": 9,
               "Title": "20240611162048_atualizarEntidades.cs",
               "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611162048_atualizarEntidades.cs",
-              "RelativeDocumentMoniker": "GestaoTarefas\\Migrations\\20240611162048_atualizarEntidades.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611162048_atualizarEntidades.cs",
               "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611162048_atualizarEntidades.cs",
-              "RelativeToolTip": "GestaoTarefas\\Migrations\\20240611162048_atualizarEntidades.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611162048_atualizarEntidades.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:20:48.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T16:20:48.762Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\appsettings.json",
               "RelativeDocumentMoniker": "GestaoTarefas\\appsettings.json",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\appsettings.json",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\appsettings.json",
               "RelativeToolTip": "GestaoTarefas\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -157,35 +154,33 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Tarefa.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Entity\\Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Entity\\Tarefa.cs",
               "RelativeDocumentMoniker": "GestaoTarefas\\Entity\\Tarefa.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Entity\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Entity\\Tarefa.cs",
               "RelativeToolTip": "GestaoTarefas\\Entity\\Tarefa.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAA3wBQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T17:32:30.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T17:32:30.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Prioridade.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Enums\\Prioridade.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Enums\\Prioridade.cs",
               "RelativeDocumentMoniker": "GestaoTarefas\\Enums\\Prioridade.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Enums\\Prioridade.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Enums\\Prioridade.cs",
               "RelativeToolTip": "GestaoTarefas\\Enums\\Prioridade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:27:40.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T16:27:40.871Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Controllers\\CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "GestaoTarefas\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "GestaoTarefas\\Controllers\\CategoriaController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,61 +191,57 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Entity\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Entity\\Categoria.cs",
               "RelativeDocumentMoniker": "GestaoTarefas\\Entity\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Entity\\Categoria.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Entity\\Categoria.cs",
               "RelativeToolTip": "GestaoTarefas\\Entity\\Categoria.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T14:25:09.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T14:25:09.111Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Entity\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Entity\\Usuario.cs",
               "RelativeDocumentMoniker": "GestaoTarefas\\Entity\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Entity\\Usuario.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Entity\\Usuario.cs",
               "RelativeToolTip": "GestaoTarefas\\Entity\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T18:04:38.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T18:04:38.197Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "20240611161802_categoria.cs",
               "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611161802_categoria.cs",
-              "RelativeDocumentMoniker": "GestaoTarefas\\Migrations\\20240611161802_categoria.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611161802_categoria.cs",
               "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611161802_categoria.cs",
-              "RelativeToolTip": "GestaoTarefas\\Migrations\\20240611161802_categoria.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Migrations\\20240611161802_categoria.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:18:02.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T16:18:02.512Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ConfigDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Data\\ConfigDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Data\\ConfigDbContext.cs",
               "RelativeDocumentMoniker": "GestaoTarefas\\Data\\ConfigDbContext.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Data\\ConfigDbContext.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Data\\ConfigDbContext.cs",
               "RelativeToolTip": "GestaoTarefas\\Data\\ConfigDbContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwCUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T17:41:22.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T17:41:22.116Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "GestaoTarefas\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "GestaoTarefas\\Controllers\\UsuarioController.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -261,9 +252,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Program.cs",
               "RelativeDocumentMoniker": "GestaoTarefas\\Program.cs",
-              "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\Program.cs",
+              "ToolTip": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\Program.cs",
               "RelativeToolTip": "GestaoTarefas\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,9 +265,9 @@
               "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Christian\\Documents\\Projects\\escola\\SchoolWeb.API\\SchoolWeb.API\\Program.cs",
-              "RelativeDocumentMoniker": "..\\SchoolWeb.API\\SchoolWeb.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Christian\\Documents\\Projects\\escola\\SchoolWeb.API\\SchoolWeb.API\\Program.cs",
               "ToolTip": "C:\\Users\\Christian\\Documents\\Projects\\escola\\SchoolWeb.API\\SchoolWeb.API\\Program.cs",
-              "RelativeToolTip": "..\\SchoolWeb.API\\SchoolWeb.API\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Christian\\Documents\\Projects\\escola\\SchoolWeb.API\\SchoolWeb.API\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T17:32:48.803Z"
             }

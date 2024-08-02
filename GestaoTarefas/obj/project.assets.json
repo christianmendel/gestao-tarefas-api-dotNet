@@ -2753,19 +2753,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Christian\\.nuget\\packages\\": {}
+    "C:\\Users\\chris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\GestaoTarefas.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\GestaoTarefas.csproj",
       "projectName": "GestaoTarefas",
-      "projectPath": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\GestaoTarefas.csproj",
-      "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Christian\\Documents\\Projects\\escola\\GestaoTarefas\\GestaoTarefas\\obj\\",
+      "projectPath": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\GestaoTarefas.csproj",
+      "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\chris\\source\\repos\\gestao-tarefas-api-dotNet\\GestaoTarefas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2773,6 +2773,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://dllgroup.pkgs.visualstudio.com/_packaging/Brazil-AproveSoa/nuget/v3/index.json": {}
       },
@@ -2839,7 +2840,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

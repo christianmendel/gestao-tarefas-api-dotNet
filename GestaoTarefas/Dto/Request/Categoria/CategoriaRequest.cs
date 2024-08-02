@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace GestaoTarefas.Dto.Request
+namespace GestaoTarefas.Dto.Request.Categoria
 {
     public class CategoriaRequest
     {

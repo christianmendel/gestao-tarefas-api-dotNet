@@ -1,7 +1,7 @@
 ﻿using GestaoTarefas.Enums;
 using System.ComponentModel.DataAnnotations;
 
-namespace GestaoTarefas.Dto.Request
+namespace GestaoTarefas.Dto.Request.Tarefa
 {
     public class TarefaRequest
     {

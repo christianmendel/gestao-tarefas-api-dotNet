@@ -1,4 +1,4 @@
-﻿namespace GestaoTarefas.Dto.Request
+﻿namespace GestaoTarefas.Dto.Request.Usuario
 {
     public class UsuarioRequest
     {
